@@ -11,7 +11,7 @@ curl -fsSL https://raw.githubusercontent.com/cajulang/cajulang/main/install.sh |
 Releases are signed; `caju upgrade` installs new versions side by side and `caju upgrade --rollback`
 goes back.
 
-Website: [cajulang.com](https://cajulang.com) · Wallet: [caju-wallet.vercel.app](https://caju-wallet.vercel.app)
+Website: [cajulang.com](https://cajulang.com) · Wallet: [wallet.cajulang.com](https://wallet.cajulang.com)
 
 ### The language
 
@@ -34,7 +34,7 @@ Website: [cajulang.com](https://cajulang.com) · Wallet: [caju-wallet.vercel.app
 
 | Repository | |
 |---|---|
-| [caju-wallet](https://github.com/cajulang/caju-wallet) | a MetaMask web wallet for EVM chains: balances, tokens and transfers, all in Caju |
+| [caju-wallet](https://github.com/cajulang/caju-wallet) | a MetaMask web wallet for EVM chains, [wallet.cajulang.com](https://wallet.cajulang.com): balances, tokens and transfers, all in Caju |
 | [caju-shop](https://github.com/cajulang/caju-shop) | an online store with an admin panel, built with Caju's server, UI and database libraries |
 | [cajulang-ui-site](https://github.com/cajulang/cajulang-ui-site) | the language's website, [cajulang.com](https://cajulang.com), built in Caju |
 
